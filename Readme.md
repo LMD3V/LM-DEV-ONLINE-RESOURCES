@@ -11,6 +11,8 @@
  
  - www.phptherightway.com
  - https://goalkicker.com/
+ - https://github.com/kamranahmedse/developer-roadmap
+ - https://github.com/johnpaulada/awesome-learning-collections
 
 # PLAYGROUNDS
 
