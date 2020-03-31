@@ -1,5 +1,17 @@
 # GFX
+ 
+ - http://quaternius.com/index.html
+ - https://www.pexels.com/
+ - https://unsplash.com/
+ 
+# PLAYGROUNDS
 
+ - Dart
+   > https://dartpad.dartlang.org/
+ 
+ - Code Wars
+   > https://www.codewars.com/dashboard
+   
 # CODE SNIPPETS
  
   - File upload preview image
