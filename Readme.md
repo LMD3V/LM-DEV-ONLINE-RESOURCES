@@ -1,4 +1,4 @@
-# GFX
+# Graphics
  
  - http://quaternius.com/index.html
  - https://www.pexels.com/
@@ -7,8 +7,9 @@
  - https://unsplash.com/
  - https://www.uplabs.com/
 
-# BOOKS
+# Learnings
  
+ - www.phptherightway.com
  - https://goalkicker.com/
 
 # PLAYGROUNDS
