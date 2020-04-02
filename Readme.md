@@ -19,8 +19,11 @@
 # Learnings
  
  - [PHP The Right Way](www.phptherightway.com)
+ 
  - [Goal Kicker](https://goalkicker.com/)
+ 
  - [Developer's Road Map](https://github.com/kamranahmedse/developer-roadmap)
+ 
  - [Sir JP Ada's Learning Collections](https://github.com/johnpaulada/awesome-learning-collections)
 
 # PLAYGROUNDS
