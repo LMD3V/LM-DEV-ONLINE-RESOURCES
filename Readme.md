@@ -6,7 +6,10 @@
  - https://undraw.co/
  - https://unsplash.com/
  - https://www.uplabs.com/
- - https://www.freepik.com/
+ - https://www.freepik.com/  
+         -If you want to browse only free illustrations. Put check in "free" menu, then download your favorite      
+         illustration. unzip the  file then get the .eps format then convert it to svg using this link cloudconvert below.
+ - https://cloudconvert.com/eps-to-svg
 
 # Learnings
  
