@@ -1,20 +1,13 @@
 # Graphics
  
  - [Quaternius](http://quaternius.com/index.html)
- 
  - [Pexels](https://www.pexels.com/)
- 
  - [Undraw](https://undraw.co/)
- 
  - [Unsplash](https://unsplash.com/)
- 
  - [Uplabs](https://www.uplabs.com/)
- 
  - [Freepick](https://www.freepik.com/)
-    
     > If you want to browse only free illustrations. Put check "free" on the right side menu, then download your favorite      
       illustration. unzip the  file then get the .eps format then convert it to svg using this link cloudconvert below.
-      
  - [Cloud Convert](https://cloudconvert.com/eps-to-svg)
 
 # Learnings
