@@ -6,6 +6,7 @@
  - https://undraw.co/
  - https://unsplash.com/
  - https://www.uplabs.com/
+ - https://www.freepik.com/
 
 # Learnings
  
