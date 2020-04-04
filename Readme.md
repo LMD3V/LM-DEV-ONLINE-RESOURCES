@@ -15,6 +15,8 @@
       illustration. unzip the  file then get the .eps format then convert it to svg using this link cloudconvert below.
  
  - [Cloud Convert](https://cloudconvert.com/eps-to-svg)
+ 
+ - [ICO Converter](https://www.icoconverter.com/)
 
 # Learnings
  
