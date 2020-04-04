@@ -37,6 +37,8 @@
  - [Code Wars](https://www.codewars.com/dashboard)
  
  - [CSS Flexbox](https://the-echoplex.net/flexyboxes/)
+ 
+ - [JsComplete (Javascript)](https://jscomplete.com/playground)
    
 # CODE SNIPPETS
  
