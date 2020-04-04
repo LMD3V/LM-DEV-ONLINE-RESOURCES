@@ -27,7 +27,9 @@
  - [Developer's Road Map](https://github.com/kamranahmedse/developer-roadmap)
  
  - [Sir JP Ada's Learning Collections](https://github.com/johnpaulada/awesome-learning-collections)
-
+ 
+ - [Social Media Engagement with meta tags](https://sympli.io/blog/2017/07/19/how-to-boost-social-media-engagement-with-meta-tags/)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
