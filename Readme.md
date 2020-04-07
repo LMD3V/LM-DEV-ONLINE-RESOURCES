@@ -30,6 +30,8 @@
  
  - [Social Media Engagement with meta tags](https://sympli.io/blog/2017/07/19/how-to-boost-social-media-engagement-with-meta-tags/)
  
+ - [Ditch Jquery, Just use plain JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
