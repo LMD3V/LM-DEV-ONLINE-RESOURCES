@@ -32,6 +32,8 @@
  
  - [Ditch Jquery, Just use plain JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
  
+ - [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
