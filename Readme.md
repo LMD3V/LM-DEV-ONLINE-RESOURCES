@@ -51,3 +51,7 @@
   - [File upload preview image](https://bit.ly/2waV31A)
   
   - [Dealing with Promises in an array (JS)](https://dev.to/afifsohaili/dealing-with-promises-in-an-array-with-async-await-5d7g)
+  
+# NPM Packages
+
+  - [Facebook Chat Api](https://www.npmjs.com/package/facebook-chat-api)
