@@ -22,6 +22,8 @@
  
  - [PHP The Right Way](www.phptherightway.com)
  
+ - [Web Skills](https://andreasbm.github.io/web-skills/)
+ 
  - [Goal Kicker](https://goalkicker.com/)
  
  - [Developer's Road Map](https://github.com/kamranahmedse/developer-roadmap)
