@@ -36,6 +36,8 @@
  
  - [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet)
  
+ - [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
