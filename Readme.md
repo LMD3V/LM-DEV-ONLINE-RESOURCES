@@ -32,11 +32,9 @@
  
  - [Social Media Engagement with meta tags](https://sympli.io/blog/2017/07/19/how-to-boost-social-media-engagement-with-meta-tags/)
  
- - [Ditch Jquery, Just use plain JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
- 
  - [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet)
  
- - [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/)
+ - [Game Programming Road Map](https://github.com/miloyip/game-programmer)
  
 # PLAYGROUNDS
 
@@ -53,6 +51,10 @@
   - [File upload preview image](https://bit.ly/2waV31A)
   
   - [Dealing with Promises in an array (JS)](https://dev.to/afifsohaili/dealing-with-promises-in-an-array-with-async-await-5d7g)
+  
+  - [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/)
+  
+  - [Ditch Jquery, Just use plain JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
   
 # NPM Packages
 
