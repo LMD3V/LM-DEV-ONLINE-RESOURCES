@@ -18,6 +18,9 @@
  
  - [ICO Converter](https://www.icoconverter.com/)
 
+# Data Sources
+ 
+ - ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/)
 # Learnings
  
  - [PHP The Right Way](www.phptherightway.com)
