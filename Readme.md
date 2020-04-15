@@ -21,6 +21,7 @@
 # Data Sources
  
  - ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/)
+ 
 # Learnings
  
  - [PHP The Right Way](www.phptherightway.com)
@@ -38,6 +39,8 @@
  - [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet)
  
  - [Game Programming Road Map](https://github.com/miloyip/game-programmer)
+ 
+ - [Catalog of Refactorings](https://refactoring.com/catalog/)
  
 # PLAYGROUNDS
 
