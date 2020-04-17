@@ -61,6 +61,8 @@
   - [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/)
   
   - [Ditch Jquery, Just use plain JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+
+  - [Vue JS Warning Runtime Only Build](https://codewithhugo.com/vue-warn-runtime-only-build/)
   
 # NPM Packages
 
