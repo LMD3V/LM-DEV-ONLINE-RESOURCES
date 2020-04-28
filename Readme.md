@@ -42,6 +42,8 @@
  
  - [Catalog of Refactorings](https://refactoring.com/catalog/)
  
+ - [5 tips to write foolproof test cases every time](https://reqtest.com/testing-blog/5-tips-to-write-foolproof-test-cases-every-time/)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
