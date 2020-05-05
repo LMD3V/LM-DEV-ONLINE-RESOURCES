@@ -66,6 +66,8 @@
 
   - [Vue JS Warning Runtime Only Build](https://codewithhugo.com/vue-warn-runtime-only-build/)
   
+  - [1 Line of Code Javascript](https://1loc.dev/)
+  
 # NPM Packages
 
   - [Facebook Chat Api](https://www.npmjs.com/package/facebook-chat-api)
