@@ -44,6 +44,8 @@
  
  - [5 tips to write foolproof test cases every time](https://reqtest.com/testing-blog/5-tips-to-write-foolproof-test-cases-every-time/)
  
+ - [File Upload using VueJS and Laravel](https://dev.to/diogoko/file-upload-using-laravel-and-vue-js-the-right-way-1775)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
