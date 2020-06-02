@@ -46,6 +46,8 @@
  
  - [File Upload using VueJS and Laravel](https://dev.to/diogoko/file-upload-using-laravel-and-vue-js-the-right-way-1775)
  
+ - [Deploying using Github Actions and Eleventy](https://dev.to/koddr/automate-that-a-practical-guide-to-github-actions-build-deploy-a-static-11ty-website-to-remote-virtual-server-after-push-d19?fbclid=IwAR3WZWLHM0RTudc0UHJFgIXQgF5pelAylXIwq99UxSTqcR8td9DUVAKTVTQ)
+ 
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
