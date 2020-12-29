@@ -17,6 +17,8 @@
  - [Cloud Convert](https://cloudconvert.com/eps-to-svg)
  
  - [ICO Converter](https://www.icoconverter.com/)
+ 
+ - [Get Waves](https://getwaves.io/)
 
 # Data Sources
  
