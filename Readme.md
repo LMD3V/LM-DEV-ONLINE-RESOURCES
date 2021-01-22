@@ -24,6 +24,10 @@
  
  - ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/)
  
+ # Dummy Data
+ 
+ - [Mockaroo](https://www.mockaroo.com/) > Dummy Data Generator, (MANY FEATURES) RECOMMENDED
+ 
 # Learnings
  
  - [PHP The Right Way](www.phptherightway.com)
