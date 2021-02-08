@@ -59,6 +59,13 @@
  
  - [Deploying using Github Actions and Eleventy](https://dev.to/koddr/automate-that-a-practical-guide-to-github-actions-build-deploy-a-static-11ty-website-to-remote-virtual-server-after-push-d19?fbclid=IwAR3WZWLHM0RTudc0UHJFgIXQgF5pelAylXIwq99UxSTqcR8td9DUVAKTVTQ)
  
+ - [OOP Principles for Writing Better Code in Laravel Explained](https://medium.com/better-programming/laravel-oop-principles-for-writing-better-code-explained-part-1-531276365cba)
+  
+ - [Design Patterns](https://sourcemaking.com/design_patterns)
+  
+ - [What Are Code Smells in PHP? An OOP Approach for Cleaner Code](https://medium.com/better-programming/what-are-code-smells-in-php-oop-approach-for-cleaner-code-c9729232dc5f)
+ 
+
 # PLAYGROUNDS
 
  - [Dart](https://dartpad.dartlang.org/)
@@ -68,6 +75,7 @@
  - [CSS Flexbox](https://the-echoplex.net/flexyboxes/)
  
  - [JsComplete (Javascript)](https://jscomplete.com/playground)
+
    
 # CODE SNIPPETS 
  
