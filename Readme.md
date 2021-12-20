@@ -77,6 +77,8 @@
  
  - [JsComplete (Javascript)](https://jscomplete.com/playground)
 
+ - [Security Training for Developers](https://www.hacksplaining.com/lessons)
+
    
 # CODE SNIPPETS 
  
