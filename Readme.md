@@ -66,6 +66,7 @@
   
  - [What Are Code Smells in PHP? An OOP Approach for Cleaner Code](https://medium.com/better-programming/what-are-code-smells-in-php-oop-approach-for-cleaner-code-c9729232dc5f)
  
+ - [Data Stacks](https://www.moderndatastack.xyz/categories)
 
 # PLAYGROUNDS
 
