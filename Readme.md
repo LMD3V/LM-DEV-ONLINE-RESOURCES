@@ -33,6 +33,8 @@
  - [Mockaroo](https://www.mockaroo.com/) > Dummy Data Generator, (MANY FEATURES) RECOMMENDED
  
 # Learnings
+
+ - [Linux Basic](https://linuxjourney.com)
  
  - [PHP The Right Way](www.phptherightway.com)
  
