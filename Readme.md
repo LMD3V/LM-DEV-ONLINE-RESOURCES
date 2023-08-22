@@ -25,6 +25,7 @@
  - [Get Waves](https://getwaves.io/)
  - [Free Frontend](https://freefrontend.com/)
  - [UI Gradients](https://uigradients.com/)
+ - [Lottie Files](https://lottiefiles.com/)
 
 # Data Sources
  
