@@ -3,15 +3,16 @@
 - [BlackArch Tools](https://blackarch.org/tools.html)
 
 # Graphics
- - [Blush]('https://blush.design/')
 
- - [StorySet]('https://storyset.com/')
+ - [Blush](https://blush.design/)
 
- - [WannaThis]('https://wannathis.one/')
+ - [StorySet](https://storyset.com/)
 
- - [Mockuuups]('https://mockuuups.studio/')
+ - [WannaThis](https://wannathis.one/)
 
- - [Parallax Figma Plugin]('https://davv.store/parallax')
+ - [Mockuuups](https://mockuuups.studio/)
+
+ - [Parallax Figma Plugin](https://davv.store/parallax)
  
  - [Quaternius](http://quaternius.com/index.html)
  
