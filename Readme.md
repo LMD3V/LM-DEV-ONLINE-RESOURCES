@@ -3,6 +3,15 @@
 - [BlackArch Tools](https://blackarch.org/tools.html)
 
 # Graphics
+ - [Blush]('https://blush.design/')
+
+ - [StorySet]('https://storyset.com/')
+
+ - [WannaThis]('https://wannathis.one/')
+
+ - [Mockuuups]('https://mockuuups.studio/')
+
+ - [Parallax Figma Plugin]('https://davv.store/parallax')
  
  - [Quaternius](http://quaternius.com/index.html)
  
@@ -23,9 +32,13 @@
  - [ICO Converter](https://www.icoconverter.com/)
  
  - [Get Waves](https://getwaves.io/)
+   
  - [Free Frontend](https://freefrontend.com/)
+   
  - [UI Gradients](https://uigradients.com/)
+   
  - [Lottie Files](https://lottiefiles.com/)
+   
  - [Shape Divider](https://www.shapedivider.app/)
 
 # Data Sources
