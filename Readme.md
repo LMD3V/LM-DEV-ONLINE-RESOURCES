@@ -127,3 +127,10 @@
 # NPM Packages
 
   - [Facebook Chat Api](https://www.npmjs.com/package/facebook-chat-api)
+
+
+
+
+# Reminders:
+
+1. Shortcuts make long delays
