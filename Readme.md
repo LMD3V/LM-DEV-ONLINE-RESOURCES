@@ -44,7 +44,7 @@
 
  - [HiCliPart](https://www.hiclipart.com/) > For downloading PNGs
 
- - [PNG Wing]([https://www.hiclipart.com/](https://www.pngwing.com/)) > For downloading PNGs
+ - [PNG Wing](https://www.pngwing.com/) > For downloading PNGs
 
 # Data Sources
  
