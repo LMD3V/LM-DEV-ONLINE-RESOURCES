@@ -45,6 +45,8 @@
  - [HiCliPart](https://www.hiclipart.com/) > For downloading PNGs
 
  - [PNG Wing](https://www.pngwing.com/) > For downloading PNGs
+   
+ - [Animated SVGs](https://www.svgbackgrounds.com/)
 
 # Data Sources
  
