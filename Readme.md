@@ -2,6 +2,17 @@
 
 - [BlackArch Tools](https://blackarch.org/tools.html)
 
+# Generators
+
+- [CSS Grid Generator](https://cssgridgenerator.io/)
+  
+- [Tailwind Grid Generator](https://www.tailwindgen.com/)
+
+- [Logo Generator](https://logomark.ai/)
+
+- [Ilus AI](https://ilus.ai/)
+
+
 # Graphics
 
  - [Blush](https://blush.design/)
