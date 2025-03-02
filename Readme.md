@@ -1,49 +1,53 @@
 # Hacking | Networking | Penetration Testing
 
-- [BlackArch Tools](https://blackarch.org/tools.html)
+- [BlackArch Tools](https://blackarch.org/tools.html) - BlackArch Linux Penetration Testing Distribution
 
-- [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) - Framework that part of the Intelligence Driven Defense model for identification and prevention of cyber intrusions activity.
 
-- [OSINT Framework](https://osintframework.com/)
+- [OSINT Framework](https://osintframework.com/) - FREE OSINT Resources
 
-- [Shodan](https://www.shodan.io/)
+- [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 
-- [Greynoise](https://www.greynoise.io/)
+- [Greynoise](https://www.greynoise.io/) - Real-time intelligence for modern threats
 
-- [Exploit Database](https://www.exploit-db.com/google-hacking-database)
+- [Exploit Database](https://www.exploit-db.com/google-hacking-database) - Dorks for intended for pentesters and security researchers.
 
 # Generators
 
-- [CSS Grid Generator](https://cssgridgenerator.io/)
+- [CSS Grid Generator](https://cssgridgenerator.io/) - Tool that helps developers create custom CSS grid layouts more easily.
   
-- [Tailwind Grid Generator](https://www.tailwindgen.com/)
+- [Tailwind Grid Generator](https://www.tailwindgen.com/) - Tool that helps developers create custom Tailwind grid layouts more easily.
 
-- [Logo Generator](https://logomark.ai/)
+- [Logo Generator](https://logomark.ai/) 
 
-- [Ilus AI](https://ilus.ai/)
+- [Ilus AI](https://ilus.ai/) - AI illustration Generator
+
+- [Get Waves](https://getwaves.io/) - Wave generator
+
+- [Shape Divider](https://www.shapedivider.app/) - Custom Shape dividers
 
 
 # Graphics
 
- - [Blush](https://blush.design/)
+ - [Blush](https://blush.design/) - Create and customize stunning illustrations with collections made by artists across the globe
 
- - [StorySet](https://storyset.com/)
+ - [StorySet](https://storyset.com/) - Awesome free customizable illustrations
 
- - [WannaThis](https://wannathis.one/)
+ - [WannaThis](https://wannathis.one/) - 3D illustrations and Mockups for design projects
 
- - [Mockuuups](https://mockuuups.studio/)
+ - [Mockuuups](https://mockuuups.studio/) - Drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free.
 
  - [Parallax Figma Plugin](https://davv.store/parallax)
  
- - [Quaternius](http://quaternius.com/index.html)
+ - [Quaternius](http://quaternius.com/index.html) - Free game assets
  
- - [Pexels](https://www.pexels.com/)
+ - [Pexels](https://www.pexels.com/) - Best free stock photos, royalty free images & videos shared by creators.
  
- - [Undraw](https://undraw.co/)
+ - [Undraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
  
- - [Unsplash](https://unsplash.com/)
+ - [Unsplash](https://unsplash.com/) - Beautiful Free Images
  
- - [Uplabs](https://www.uplabs.com/)
+ - [Dribble](https://www.dribbble.com/) - Web Designs
  
  - [Freepick](https://www.freepik.com/)
     > If you want to browse only free illustrations. Put check "free" on the right side menu, then download your favorite      
@@ -52,16 +56,12 @@
  - [Cloud Convert](https://cloudconvert.com/eps-to-svg)
  
  - [ICO Converter](https://www.icoconverter.com/)
- 
- - [Get Waves](https://getwaves.io/)
    
- - [Free Frontend](https://freefrontend.com/)
+ - [Free Frontend](https://freefrontend.com/) - Code snippets
    
- - [UI Gradients](https://uigradients.com/)
+ - [UI Gradients](https://uigradients.com/) - Color gradients
    
- - [Lottie Files](https://lottiefiles.com/)
-   
- - [Shape Divider](https://www.shapedivider.app/)
+ - [Lottie Files](https://lottiefiles.com/) - Free lightweight animations for website
 
  - [HiCliPart](https://www.hiclipart.com/) > For downloading PNGs
 
@@ -71,7 +71,7 @@
    
  - [Photopea](https://www.photopea.com/) - Online Photo Editor
 
- - [Uxintace](https://www.facebook.com/profile.php?id=61550360954650)
+ - [Uxintace](https://www.facebook.com/profile.php?id=61550360954650) - UI/Figma Designs
 
 # Data Sources
  
