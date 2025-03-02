@@ -16,7 +16,7 @@
 
 # Whiteboard Tools
 
-[Excalidraw](https://excalidraw.com/) - Virtual collaborative whiteboard tool to easily create sketch diagrams
+- [Excalidraw](https://excalidraw.com/) - Virtual collaborative whiteboard tool to easily create sketch diagrams
 
 # Generators
 
