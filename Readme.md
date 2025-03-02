@@ -14,16 +14,6 @@
 
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 
-# Whiteboard Tools
-
-- [Excalidraw](https://excalidraw.com/) - Virtual collaborative whiteboard tool to easily create sketch diagrams
-
-# APIs
- 
-- [Mockaroo](https://www.mockaroo.com/) > Dummy Data Generator, (MANY FEATURES) RECOMMENDED
-
-- [Free Public APIs](https://github.com/edenramoneda/public-apis) - Free Public APIs
-
 
 # AWS
 - [Stephane Maarek Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=LETSLEARNNOW)
@@ -37,6 +27,17 @@
 - [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/courses/11458/aws-cloud-quest-cloud-practitioner) - role-based learning experience designed to equip you with practical AWS Cloud skills. Featuring 12 FREE hands-on assignments that guide you through building real-world solutions, this course is enriched by instructional videos, architecture diagrams, knowledge quizzes, and a competitive tournament mode.
 
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) - provides students and educators with no-cost access to cloud computing skills training developed by AWS experts
+
+
+# Whiteboard Tools
+
+- [Excalidraw](https://excalidraw.com/) - Virtual collaborative whiteboard tool to easily create sketch diagrams
+
+# APIs
+ 
+- [Mockaroo](https://www.mockaroo.com/) > Dummy Data Generator, (MANY FEATURES) RECOMMENDED
+
+- [Free Public APIs](https://github.com/edenramoneda/public-apis) - Free Public APIs
 
 
 # Generators
