@@ -1,6 +1,16 @@
-# Hacking & Networking
+# Hacking | Networking | Penetration Testing
 
 - [BlackArch Tools](https://blackarch.org/tools.html)
+
+- [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+
+- [OSINT Framework](https://osintframework.com/)
+
+- [Shodan](https://www.shodan.io/)
+
+- [Greynoise](https://www.greynoise.io/)
+
+- [Exploit Database](https://www.exploit-db.com/google-hacking-database)
 
 # Generators
 
@@ -58,6 +68,8 @@
  - [PNG Wing](https://www.pngwing.com/) > For downloading PNGs
    
  - [Animated SVGs](https://www.svgbackgrounds.com/)
+   
+ - [Photopea](https://www.photopea.com/) - Online Photo Editor
 
 # Data Sources
  
@@ -145,9 +157,3 @@
 
   - [Facebook Chat Api](https://www.npmjs.com/package/facebook-chat-api)
 
-
-
-
-# Reminders:
-
-1. Shortcuts make long delays
