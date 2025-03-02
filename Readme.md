@@ -14,6 +14,10 @@
 
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 
+# Whiteboard Tools
+
+[Excalidraw](https://excalidraw.com/) - Virtual collaborative whiteboard tool to easily create sketch diagrams
+
 # Generators
 
 - [CSS Grid Generator](https://cssgridgenerator.io/) - Tool that helps developers create custom CSS grid layouts more easily.
