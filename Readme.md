@@ -1,4 +1,4 @@
-# Hacking | Networking | Penetration Testing
+# Penetration Testing | Networking
 
 - [BlackArch Tools](https://blackarch.org/tools.html) - BlackArch Linux Penetration Testing Distribution
 
