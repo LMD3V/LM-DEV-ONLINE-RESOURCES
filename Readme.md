@@ -12,6 +12,8 @@
 
 - [Exploit Database](https://www.exploit-db.com/google-hacking-database) - Dorks for intended for pentesters and security researchers.
 
+- [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
+
 # Generators
 
 - [CSS Grid Generator](https://cssgridgenerator.io/) - Tool that helps developers create custom CSS grid layouts more easily.
@@ -86,9 +88,11 @@
  
  - [WEB RTC](https://www.webrtc-experiment.com/)
  
- # Dummy Data Generator
+ # APIs
  
  - [Mockaroo](https://www.mockaroo.com/) > Dummy Data Generator, (MANY FEATURES) RECOMMENDED
+
+ - [Free Public APIs](https://github.com/edenramoneda/public-apis) - Free Public APIs
  
 # Learnings
 
