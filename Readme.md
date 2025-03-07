@@ -1,4 +1,5 @@
 # Penetration Testing | Networking
+- [Security Training for Developers](https://www.hacksplaining.com/lessons) - Pick a vulnerability to learn about
 
 - [BlackArch Tools](https://blackarch.org/tools.html) - BlackArch Linux Penetration Testing Distribution
 
@@ -13,8 +14,6 @@
 - [Exploit Database](https://www.exploit-db.com/google-hacking-database) - Dorks for intended for pentesters and security researchers.
 
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
-
-- [Security Training for Developers](https://www.hacksplaining.com/lessons) - Pick a vulnerability to learn about
 
 
 # AWS
