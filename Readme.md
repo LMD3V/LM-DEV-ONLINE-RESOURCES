@@ -14,7 +14,7 @@
 
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 
-- [Security Training for Developers](https://www.hacksplaining.com/lessons)
+- [Security Training for Developers](https://www.hacksplaining.com/lessons) - Pick a vulnerability to learn about
 
 
 # AWS
