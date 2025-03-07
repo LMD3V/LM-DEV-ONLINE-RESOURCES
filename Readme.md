@@ -29,6 +29,10 @@
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) - provides students and educators with no-cost access to cloud computing skills training developed by AWS experts
 
 
+# AI Related Tools
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam?tab=readme-ov-file) - Real-time face swap and video deepfake with a single click and only a single image.
+
+
 # Whiteboard Tools
 
 - [Excalidraw](https://excalidraw.com/) - Virtual collaborative whiteboard tool to easily create sketch diagrams
