@@ -1,6 +1,6 @@
 # Penetration Testing | Networking
-- [Security Training for Developers](https://www.hacksplaining.com/lessons) - Pick a vulnerability to learn about
-
+- [Security Training for Developers](https://www.hacksplaining.com/lessons) - Security Training for Web Developers
+  
 - [BlackArch Tools](https://blackarch.org/tools.html) - BlackArch Linux Penetration Testing Distribution
 
 - [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) - Framework that part of the Intelligence Driven Defense model for identification and prevention of cyber intrusions activity.
