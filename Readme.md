@@ -29,8 +29,16 @@
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) - provides students and educators with no-cost access to cloud computing skills training developed by AWS experts
 
 
-# AI Related Tools
+# AI Related Tools | LLMs
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam?tab=readme-ov-file) - Real-time face swap and video deepfake with a single click and only a single image.
+  
+- [Claude AI](https://claude.ai/) - next generation AI assistant built by Anthropic
+
+- [AI Papers](https://aipaper.dev/) - Stay up-to-date with the latest AI research, for free, forever!
+
+- [Anaconda](https://www.anaconda.com/) - The world’s most trusted open ecosystem forsourcing, building, and deploying data science and AI initiatives.
+
+- [Llama Index](https://www.llamaindex.ai/) - Build AI Knowledge Assistants over your enterprise data
 
 
 # Whiteboard Tools
@@ -184,6 +192,7 @@
   - [Vue JS Warning Runtime Only Build](https://codewithhugo.com/vue-warn-runtime-only-build/)
   
   - [1 Line of Code Javascript](https://1loc.dev/)
+
   
 # NPM Packages
 
