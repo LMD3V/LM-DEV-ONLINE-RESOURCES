@@ -1,4 +1,4 @@
-# Penetration Testing | Networking
+# Cybersecurity | Networking
 - [Security Training for Developers](https://www.hacksplaining.com/lessons) - Security Training for Web Developers
   
 - [BlackArch Tools](https://blackarch.org/tools.html) - BlackArch Linux Penetration Testing Distribution
