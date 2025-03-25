@@ -15,6 +15,8 @@
 
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 
+- [TryHackMe Road Map](https://github.com/rng70/TryHackMe-Roadmap) -  list of 350+ Free TryHackMe rooms to start learning hacking
+
 
 # AWS
 - [Stephane Maarek Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=LETSLEARNNOW)
