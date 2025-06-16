@@ -33,6 +33,8 @@
 
 
 # AI Related Tools | LLMs
+- [AI Roadmap](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) - AI Roadmap from scratch
+
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam?tab=readme-ov-file) - Real-time face swap and video deepfake with a single click and only a single image.
   
 - [Claude AI](https://claude.ai/) - next generation AI assistant built by Anthropic
