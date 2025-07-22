@@ -76,8 +76,10 @@
 - [Github Profile Generator](https://www.github-profile-generator.in/)
 
 
-# Graphics
+# Graphics | Animations | Illustrations
 
+ - [Reactbits](https://reactbits.dev/) - Open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites
+   
  - [Blush](https://blush.design/) - Create and customize stunning illustrations with collections made by artists across the globe
 
  - [StorySet](https://storyset.com/) - Awesome free customizable illustrations
