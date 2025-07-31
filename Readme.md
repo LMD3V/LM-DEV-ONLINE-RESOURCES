@@ -45,6 +45,9 @@
 
 - [Llama Index](https://www.llamaindex.ai/) - Build AI Knowledge Assistants over your enterprise data
 
+- [NotebookLM](https://notebooklm.google/) - Your research and thinking partner, grounded in the information you trust, built with the latest Gemini models.
+
+
 
 # Whiteboard Tools
 
