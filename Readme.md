@@ -17,6 +17,8 @@
 
 - [TryHackMe Road Map](https://github.com/rng70/TryHackMe-Roadmap) -  list of 350+ Free TryHackMe rooms to start learning hacking
 
+- ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/) - Offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much mor
+
 
 # AWS
 - [Stephane Maarek Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=LETSLEARNNOW)
@@ -73,8 +75,6 @@
 - [Get Waves](https://getwaves.io/) - Wave generator
 
 - [Shape Divider](https://www.shapedivider.app/) - Custom Shape dividers
-
-- ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/)
 
 - [Github Profile Generator](https://www.github-profile-generator.in/)
 
