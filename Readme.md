@@ -51,6 +51,10 @@
 
 - [SynthID](https://deepmind.google/science/synthid/) - A tool to watermark and identify content generated through AI
 
+- [Google AI Studio](https://aistudio.google.com/) - Build with the latest models from Google DeepMind
+
+- [Google AI Tools](https://ai.google/) 
+
 
 # Whiteboard Tools
 
