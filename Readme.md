@@ -53,7 +53,11 @@
 
 - [Google AI Studio](https://aistudio.google.com/) - Build with the latest models from Google DeepMind
 
-- [Google AI Tools](https://ai.google/) 
+- [Google AI Tools](https://ai.google/)
+
+- [Convex Backend](https://github.com/get-convex/convex-backend) - open-source reactive database designed to make life easy for web app developers, whether human or LLM. Fetch data and perform business logic with strong consistency by writing pure TypeScript.
+
+
 
 
 # Whiteboard Tools
