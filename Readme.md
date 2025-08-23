@@ -33,6 +33,8 @@
 
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) - provides students and educators with no-cost access to cloud computing skills training developed by AWS experts
 
+- [AWS Samples](https://github.com/aws-samples) - AWS Samples
+
 
 # AI Related Tools | LLMs
 - [AI Roadmap](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) - AI Roadmap from scratch
