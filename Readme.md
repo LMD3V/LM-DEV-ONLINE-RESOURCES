@@ -36,7 +36,7 @@
 - [AWS Samples](https://github.com/aws-samples) - AWS Samples
 
 
-# AI Related Tools | LLMs
+# AI Related Tools | LLMs | MCP
 - [AI Roadmap](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) - AI Roadmap from scratch
 
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam?tab=readme-ov-file) - Real-time face swap and video deepfake with a single click and only a single image.
@@ -58,6 +58,10 @@
 - [Google AI Tools](https://ai.google/)
 
 - [Convex Backend](https://github.com/get-convex/convex-backend) - open-source reactive database designed to make life easy for web app developers, whether human or LLM. Fetch data and perform business logic with strong consistency by writing pure TypeScript.
+
+- [Neuron AI](https://www.neuron-ai.dev/) - ADK for PHP
+
+- [PHP MCP Server SDK](https://github.com/php-mcp/server) - A comprehensive PHP SDK for building Model Context Protocol (MCP) servers. Create production-ready MCP servers in PHP with modern architecture, extensive testing, and flexible transport options.
 
 
 
