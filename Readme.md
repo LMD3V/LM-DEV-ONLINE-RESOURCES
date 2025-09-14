@@ -17,7 +17,9 @@
 
 - [TryHackMe Road Map](https://github.com/rng70/TryHackMe-Roadmap) -  list of 350+ Free TryHackMe rooms to start learning hacking
 
-- ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/) - Offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much mor
+- ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/) - Offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more
+
+- [Xanthorox AI](https://xanthorox.net/) - Xanthorox AI is NOT a "Black Hat AI". It is an advanced AI assistant primarily designed to support ethical hacking, penetration testing, cybersecurity research (for both red and blue teams), and innovative tool creation by developers.
 
 
 # AWS
