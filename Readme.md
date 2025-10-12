@@ -65,6 +65,8 @@
 
 - [PHP MCP Server SDK](https://github.com/php-mcp/server) - A comprehensive PHP SDK for building Model Context Protocol (MCP) servers. Create production-ready MCP servers in PHP with modern architecture, extensive testing, and flexible transport options.
 
+- [Learn AI](https://bryllim.com/learn-ai) - List of free AI resources and certifications
+
 
 # Development
 
