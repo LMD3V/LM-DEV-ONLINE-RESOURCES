@@ -21,6 +21,8 @@
 
 - [Xanthorox AI](https://xanthorox.net/) - Xanthorox AI is NOT a "Black Hat AI". It is an advanced AI assistant primarily designed to support ethical hacking, penetration testing, cybersecurity research (for both red and blue teams), and innovative tool creation by developers.
 
+- [Dark Web OSINT](https://www.osinthandbook.com/dark-web-research) - List of links for dark web research
+
 
 # AWS
 - [Stephane Maarek Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=LETSLEARNNOW)
