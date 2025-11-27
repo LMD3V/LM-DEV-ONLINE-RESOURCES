@@ -71,6 +71,8 @@
 
 - [AI Study Note](https://tidal-draw-67c.notion.site/Study-Note-AI-Agent-2b4b2866cc68805c8018dfb996578c94) - AI Agent Learning
 
+- [AI Design Patterns](https://cloud.google.com/architecture/choose-design-pattern-agentic-ai-system) - This document provides guidance to help you choose a design pattern for your agentic AI system.
+
 
 # Development
 
