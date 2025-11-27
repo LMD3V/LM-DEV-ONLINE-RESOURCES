@@ -73,6 +73,8 @@
 
 - [AI Design Patterns](https://cloud.google.com/architecture/choose-design-pattern-agentic-ai-system) - This document provides guidance to help you choose a design pattern for your agentic AI system.
 
+- [Building a collborative AI Developer's Guide to Multi-Agent Systems with ADK](https://cloud.google.com/blog/topics/developers-practitioners/building-collaborative-ai-a-developers-guide-to-multi-agent-systems-with-adk?e=48754805)
+
 
 # Development
 
