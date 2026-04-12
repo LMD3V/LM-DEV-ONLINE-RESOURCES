@@ -75,6 +75,12 @@
 
 - [Building a collborative AI Developer's Guide to Multi-Agent Systems with ADK](https://cloud.google.com/blog/topics/developers-practitioners/building-collaborative-ai-a-developers-guide-to-multi-agent-systems-with-adk?e=48754805)
 
+- [Open Agent Skills Ecosystem](https://skills.sh/) - Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.
+
+- [Cognee Knowledge Graph](https://cognee-graph-skills.vercel.app/)
+
+- [Cognee](https://www.cognee.ai/) - Knowledge Engine for AI Agent Memory
+
 
 # Development
 
