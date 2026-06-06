@@ -109,6 +109,8 @@
 
 - [Ilus AI](https://ilus.ai/) - AI illustration Generator
 
+- [Illustro](https://illustro.app/) - AI illustration generator and editor
+
 - [Get Waves](https://getwaves.io/) - Wave generator
 
 - [Shape Divider](https://www.shapedivider.app/) - Custom Shape dividers
