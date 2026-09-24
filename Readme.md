@@ -16,3 +16,4 @@ A curated collection of online resources for developers, organized by category.
 | 10 | [Playgrounds](playgrounds/) | Online code playgrounds and challenges | 4 |
 | 11 | [Code Snippets](code-snippets/) | Handy JS/Vue snippets and articles | 6 |
 | 12 | [NPM Packages](npm-packages/) | Useful npm packages | 1 |
+| 13 | [Simulators](simulators/) | Device simulators and virtual machines | 1 |
