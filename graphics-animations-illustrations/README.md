@@ -6,6 +6,7 @@
 - [Animations & UI Components](#animations--ui-components)
 - [Mockups](#mockups)
 - [Editors & Converters](#editors--converters)
+- [Whiteboard & Diagramming](#whiteboard--diagramming)
 - [Design Inspiration](#design-inspiration)
 - [Game Assets](#game-assets)
 
@@ -52,6 +53,12 @@
 | [Photopea](https://www.photopea.com/) | Online Photo Editor |
 | [Cloud Convert](https://cloudconvert.com/eps-to-svg) | EPS to SVG converter |
 | [ICO Converter](https://www.icoconverter.com/) | — |
+
+## Whiteboard & Diagramming
+
+| Resource | Description |
+|---|---|
+| [Excalidraw](https://excalidraw.com/) | Virtual collaborative whiteboard tool to easily create sketch diagrams |
 
 ## Design Inspiration
 

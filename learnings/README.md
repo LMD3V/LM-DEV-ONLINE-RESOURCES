@@ -5,6 +5,7 @@
 - [Books & Collections](#books--collections)
 - [Clean Code & Design](#clean-code--design)
 - [PHP / Laravel](#php--laravel)
+- [JavaScript / Vue](#javascript--vue)
 - [Linux](#linux)
 - [Testing](#testing)
 - [DevOps / CI](#devops--ci)
@@ -41,6 +42,17 @@
 | [PHP The Right Way](https://www.phptherightway.com) | — |
 | [OOP Principles for Writing Better Code in Laravel Explained](https://medium.com/better-programming/laravel-oop-principles-for-writing-better-code-explained-part-1-531276365cba) | — |
 | [File Upload using VueJS and Laravel](https://dev.to/diogoko/file-upload-using-laravel-and-vue-js-the-right-way-1775) | — |
+
+## JavaScript / Vue
+
+| Resource | Description |
+|---|---|
+| [File upload preview image](https://bit.ly/2waV31A) | — |
+| [Dealing with Promises in an array (JS)](https://dev.to/afifsohaili/dealing-with-promises-in-an-array-with-async-await-5d7g) | — |
+| [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/) | — |
+| [Ditch Jquery, Just use plain JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/) | — |
+| [Vue JS Warning Runtime Only Build](https://codewithhugo.com/vue-warn-runtime-only-build/) | — |
+| [1 Line of Code Javascript](https://1loc.dev/) | — |
 
 ## Linux
 
