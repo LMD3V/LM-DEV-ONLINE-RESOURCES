@@ -1,6 +1,6 @@
 <div align="center">
   <h1>LM Dev Online Resources</h1>
-  <p>A curated collection of online resources for developers, organized by category.</p>
+  <p>A repository that contains some helpful links for Application Development ❤</p>
   <p>Every resource here has been tested and tried firsthand. This list exists for quick access to the toolsets that have proven helpful in my workflow and my partner's, <a href="https://github.com/edenramoneda">@edenramoneda</a>.</p>
   <p>If you find these resources helpful, please follow us on GitHub: <a href="https://github.com/leixdd">@leixdd</a> and <a href="https://github.com/edenramoneda">@edenramoneda</a>.</p>
 </div>
