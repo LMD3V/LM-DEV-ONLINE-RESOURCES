@@ -15,3 +15,4 @@
 | ["CVE Details" Security Vulnerability Database](https://www.cvedetails.com/) | Offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more |
 | [Xanthorox AI](https://xanthorox.net/) | Xanthorox AI is NOT a "Black Hat AI". It is an advanced AI assistant primarily designed to support ethical hacking, penetration testing, cybersecurity research (for both red and blue teams), and innovative tool creation by developers. |
 | [Dark Web OSINT](https://www.osinthandbook.com/dark-web-research) | List of links for dark web research |
+| [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) | — |
