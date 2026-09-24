@@ -7,7 +7,7 @@ A curated collection of online resources for developers, organized by category.
 | 1 | [Cybersecurity \| Networking](cybersecurity-networking/) | Pentesting tools, OSINT, CVE databases, forensics labs | 13 |
 | 2 | [AWS](aws/) | AWS certification courses, hands-on labs, samples | 7 |
 | 3 | [AI Related Tools \| LLMs \| MCP](ai-llm-mcp/) | AI assistants, LLM frameworks, MCP SDKs, agent design | 20 |
-| 4 | [APIs](apis/) | Free public API lists and mock data generators | 4 |
+| 4 | [APIs](apis/) | Free public API lists and mock data generators | 3 |
 | 5 | [Whiteboard Tools](whiteboard-tools/) | Collaborative diagramming | 1 |
 | 6 | [Generators](generators/) | CSS/Tailwind grids, logos, waves, shape dividers | 7 |
 | 7 | [Graphics \| Animations \| Illustrations](graphics-animations-illustrations/) | Illustrations, stock photos, mockups, animations, converters | 22 |
