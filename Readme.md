@@ -104,18 +104,18 @@
       <code>2 links</code>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="php-laravel/"><h1>🐘</h1></a>
-      <a href="php-laravel/"><b>PHP & Laravel</b></a><br>
-      <sub>PHP best practices and Laravel guides</sub><br><br>
-      <code>4 links</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
       <a href="playgrounds/"><h1>🕹️</h1></a>
       <a href="playgrounds/"><b>Playgrounds</b></a><br>
       <sub>Online code playgrounds</sub><br><br>
       <code>3 links</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="programming-languages/"><h1>💻</h1></a>
+      <a href="programming-languages/"><b>Programming Languages</b></a><br>
+      <sub>Language guides and their frameworks</sub><br><br>
+      <code>4 links</code>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="simulators/"><h1>📱</h1></a>
