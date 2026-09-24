@@ -1,13 +1,14 @@
-# LM Dev Online Resources
-
-A curated collection of online resources for developers, organized by category.
+<div align="center">
+  <h1>LM Dev Online Resources</h1>
+  <p>A curated collection of online resources for developers, organized by category.</p>
+</div>
 
 <table>
   <tr>
     <td align="center" valign="top" width="25%">
-      <a href="cybersecurity-networking/"><h1>🛡️</h1></a>
-      <a href="cybersecurity-networking/"><b>Cybersecurity | Networking</b></a><br>
-      <sub>Pentesting tools, OSINT, CVE databases, forensics labs</sub><br><br>
+      <a href="cybersecurity/"><h1>🛡️</h1></a>
+      <a href="cybersecurity/"><b>Cybersecurity</b></a><br>
+      <sub>Security training, OSINT, CVE databases, pentesting tools</sub><br><br>
       <code>13 links</code>
     </td>
     <td align="center" valign="top" width="25%">
@@ -20,28 +21,68 @@ A curated collection of online resources for developers, organized by category.
       <a href="ai-llm-mcp/"><h1>🤖</h1></a>
       <a href="ai-llm-mcp/"><b>AI Tools | LLMs | MCP</b></a><br>
       <sub>AI assistants, LLM frameworks, MCP SDKs, agent design</sub><br><br>
-      <code>20 links</code>
+      <code>18 links</code>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="apis/"><h1>🔌</h1></a>
       <a href="apis/"><b>APIs</b></a><br>
-      <sub>Free public API lists, mock data generators, API packages</sub><br><br>
+      <sub>Free public API lists, mock data, API packages</sub><br><br>
       <code>4 links</code>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="25%">
-      <a href="generators/"><h1>⚙️</h1></a>
-      <a href="generators/"><b>Generators</b></a><br>
-      <sub>CSS/Tailwind grids, logos, waves, shape dividers</sub><br><br>
+      <a href="backend-databases/"><h1>🗄️</h1></a>
+      <a href="backend-databases/"><b>Backend & Databases</b></a><br>
+      <sub>Backend platforms and databases</sub><br><br>
+      <code>1 link</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="data/"><h1>📊</h1></a>
+      <a href="data/"><b>Data</b></a><br>
+      <sub>Data science platforms and data stack tools</sub><br><br>
+      <code>2 links</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="ui-components-animations/"><h1>🧩</h1></a>
+      <a href="ui-components-animations/"><b>UI Components & Animations</b></a><br>
+      <sub>Ready-made UI components, code snippets, animations</sub><br><br>
+      <code>3 links</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="code-generators/"><h1>⚙️</h1></a>
+      <a href="code-generators/"><b>Code Generators</b></a><br>
+      <sub>Generate CSS, SVG and README code to copy into projects</sub><br><br>
+      <code>7 links</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="illustrations-stock-images/"><h1>🖼️</h1></a>
+      <a href="illustrations-stock-images/"><b>Illustrations & Stock Images</b></a><br>
+      <sub>Free illustrations, stock photos and PNGs</sub><br><br>
+      <code>10 links</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="design-tools/"><h1>🎨</h1></a>
+      <a href="design-tools/"><b>Design Tools</b></a><br>
+      <sub>Editors, converters, mockups, logos, whiteboards</sub><br><br>
       <code>7 links</code>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="graphics-animations-illustrations/"><h1>🎨</h1></a>
-      <a href="graphics-animations-illustrations/"><b>Graphics | Animations | Illustrations</b></a><br>
-      <sub>Illustrations, stock photos, mockups, animations, converters, whiteboards</sub><br><br>
-      <code>23 links</code>
+      <a href="design-inspiration/"><h1>✨</h1></a>
+      <a href="design-inspiration/"><b>Design Inspiration</b></a><br>
+      <sub>UI and web design showcases</sub><br><br>
+      <code>2 links</code>
     </td>
+    <td align="center" valign="top" width="25%">
+      <a href="game-development/"><h1>🎮</h1></a>
+      <a href="game-development/"><b>Game Development</b></a><br>
+      <sub>Game programming paths and free game assets</sub><br><br>
+      <code>2 links</code>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <a href="webrtc/"><h1>📹</h1></a>
       <a href="webrtc/"><b>WebRTC</b></a><br>
@@ -49,13 +90,37 @@ A curated collection of online resources for developers, organized by category.
       <code>4 links</code>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="learnings/"><h1>📚</h1></a>
-      <a href="learnings/"><b>Learnings</b></a><br>
-      <sub>Roadmaps, clean code, PHP/Laravel, JavaScript/Vue, Linux, testing, DevOps</sub><br><br>
-      <code>22 links</code>
+      <a href="learning-paths-books/"><h1>🗺️</h1></a>
+      <a href="learning-paths-books/"><b>Learning Paths & Books</b></a><br>
+      <sub>Developer roadmaps, free books, learning collections</sub><br><br>
+      <code>4 links</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="software-design-quality/"><h1>🧹</h1></a>
+      <a href="software-design-quality/"><b>Software Design & Quality</b></a><br>
+      <sub>Design patterns, refactoring, testing</sub><br><br>
+      <code>3 links</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="php-laravel/"><h1>🐘</h1></a>
+      <a href="php-laravel/"><b>PHP & Laravel</b></a><br>
+      <sub>PHP best practices and Laravel guides</sub><br><br>
+      <code>4 links</code>
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="frontend-guides/"><h1>🌐</h1></a>
+      <a href="frontend-guides/"><b>Frontend Guides</b></a><br>
+      <sub>JavaScript, Vue and HTML articles and snippets</sub><br><br>
+      <code>7 links</code>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="linux-devops/"><h1>🐧</h1></a>
+      <a href="linux-devops/"><b>Linux & DevOps</b></a><br>
+      <sub>Linux basics and CI/CD deployment</sub><br><br>
+      <code>2 links</code>
+    </td>
     <td align="center" valign="top" width="25%">
       <a href="playgrounds/"><h1>🕹️</h1></a>
       <a href="playgrounds/"><b>Playgrounds</b></a><br>
