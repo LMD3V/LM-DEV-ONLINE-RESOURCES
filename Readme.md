@@ -140,7 +140,7 @@
     <td align="center" valign="top" width="25%">
       <a href="webrtc/"><h1>📹</h1></a>
       <a href="webrtc/"><b>WebRTC</b></a><br>
-      <sub>WebRTC libraries and Laravel video/stream guides</sub><br><br>
+      <sub>WebRTC libraries, demos and framework guides</sub><br><br>
       <code>4 links</code>
     </td>
   </tr>
