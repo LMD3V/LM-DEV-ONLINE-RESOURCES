@@ -124,9 +124,17 @@
     <td align="center" valign="top" width="25%">
       <a href="playgrounds/"><h1>🕹️</h1></a>
       <a href="playgrounds/"><b>Playgrounds</b></a><br>
-      <sub>Online code playgrounds and challenges</sub><br><br>
-      <code>4 links</code>
+      <sub>Online code playgrounds</sub><br><br>
+      <code>3 links</code>
     </td>
+    <td align="center" valign="top" width="25%">
+      <a href="coding-practice/"><h1>🏋️</h1></a>
+      <a href="coding-practice/"><b>Coding Practice</b></a><br>
+      <sub>Coding challenges to sharpen your skills</sub><br><br>
+      <code>1 link</code>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <a href="simulators/"><h1>📱</h1></a>
       <a href="simulators/"><b>Simulators</b></a><br>

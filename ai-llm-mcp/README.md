@@ -13,9 +13,9 @@
 | Resource | Description |
 |---|---|
 | [Claude AI](https://claude.ai/) | Next generation AI assistant built by Anthropic |
-| [NotebookLM](https://notebooklm.google/) | Your research and thinking partner, grounded in the information you trust, built with the latest Gemini models. |
 | [Google AI Studio](https://aistudio.google.com/) | Build with the latest models from Google DeepMind |
 | [Google AI Tools](https://ai.google/) | Google's hub for AI products, research, and developer tools |
+| [NotebookLM](https://notebooklm.google/) | Your research and thinking partner, grounded in the information you trust, built with the latest Gemini models. |
 
 [↑ Back to top](#ai-tools--llms--mcp)
 
@@ -23,10 +23,10 @@
 
 | Resource | Description |
 |---|---|
-| [AI Roadmap](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) | AI Roadmap from scratch |
-| [Learn AI](https://bryllim.com/learn-ai) | List of free AI resources and certifications |
-| [AI Study Note](https://tidal-draw-67c.notion.site/Study-Note-AI-Agent-2b4b2866cc68805c8018dfb996578c94) | AI Agent Learning |
 | [AI Papers](https://aipaper.dev/) | Stay up-to-date with the latest AI research, for free, forever! |
+| [AI Roadmap](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) | AI Roadmap from scratch |
+| [AI Study Note](https://tidal-draw-67c.notion.site/Study-Note-AI-Agent-2b4b2866cc68805c8018dfb996578c94) | AI Agent Learning |
+| [Learn AI](https://bryllim.com/learn-ai) | List of free AI resources and certifications |
 
 [↑ Back to top](#ai-tools--llms--mcp)
 
@@ -53,9 +53,9 @@
 
 | Resource | Description |
 |---|---|
-| [Open Agent Skills Ecosystem](https://skills.sh/) | Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge. |
 | [Cognee](https://www.cognee.ai/) | Knowledge Engine for AI Agent Memory |
 | [Cognee Knowledge Graph](https://cognee-graph-skills.vercel.app/) | Interactive knowledge graph visualization of Cognee |
+| [Open Agent Skills Ecosystem](https://skills.sh/) | Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge. |
 
 [↑ Back to top](#ai-tools--llms--mcp)
 
