@@ -42,5 +42,5 @@
 | Resource | Description |
 |---|---|
 | [BlackArch Tools](https://blackarch.org/tools.html) | BlackArch Linux Penetration Testing Distribution |
-| [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) | — |
+| [Kali Linux CheatSheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) | Kali Linux Cheat Sheet for Penetration Testers |
 | [Xanthorox AI](https://xanthorox.net/) | Xanthorox AI is NOT a "Black Hat AI". It is an advanced AI assistant primarily designed to support ethical hacking, penetration testing, cybersecurity research (for both red and blue teams), and innovative tool creation by developers. |

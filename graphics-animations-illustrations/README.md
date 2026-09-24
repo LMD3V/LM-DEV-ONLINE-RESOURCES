@@ -35,7 +35,7 @@
 |---|---|
 | [Reactbits](https://reactbits.dev/) | Open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites |
 | [Lottie Files](https://lottiefiles.com/) | Free lightweight animations for website |
-| [Animated SVGs](https://www.svgbackgrounds.com/) | — |
+| [Animated SVGs](https://www.svgbackgrounds.com/) | Customizable SVG backgrounds, patterns, and icons to copy into projects |
 | [UI Gradients](https://uigradients.com/) | Color gradients |
 | [Free Frontend](https://freefrontend.com/) | Code snippets |
 
@@ -44,7 +44,7 @@
 | Resource | Description |
 |---|---|
 | [Mockuuups](https://mockuuups.studio/) | Drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free. |
-| [Parallax Figma Plugin](https://davv.store/parallax) | — |
+| [Parallax Figma Plugin](https://davv.store/parallax) | Figma plugin for creating parallax effects |
 
 ## Editors & Converters
 
@@ -52,7 +52,7 @@
 |---|---|
 | [Photopea](https://www.photopea.com/) | Online Photo Editor |
 | [Cloud Convert](https://cloudconvert.com/eps-to-svg) | EPS to SVG converter |
-| [ICO Converter](https://www.icoconverter.com/) | — |
+| [ICO Converter](https://www.icoconverter.com/) | Converts images to the ICO format |
 
 ## Whiteboard & Diagramming
 

@@ -15,7 +15,7 @@
 | [Claude AI](https://claude.ai/) | Next generation AI assistant built by Anthropic |
 | [NotebookLM](https://notebooklm.google/) | Your research and thinking partner, grounded in the information you trust, built with the latest Gemini models. |
 | [Google AI Studio](https://aistudio.google.com/) | Build with the latest models from Google DeepMind |
-| [Google AI Tools](https://ai.google/) | — |
+| [Google AI Tools](https://ai.google/) | Google's hub for AI products, research, and developer tools |
 
 ## Learning & Research
 
@@ -31,7 +31,7 @@
 | Resource | Description |
 |---|---|
 | [AI Design Patterns](https://cloud.google.com/architecture/choose-design-pattern-agentic-ai-system) | This document provides guidance to help you choose a design pattern for your agentic AI system. |
-| [Building a collaborative AI Developer's Guide to Multi-Agent Systems with ADK](https://cloud.google.com/blog/topics/developers-practitioners/building-collaborative-ai-a-developers-guide-to-multi-agent-systems-with-adk?e=48754805) | — |
+| [Building a collaborative AI Developer's Guide to Multi-Agent Systems with ADK](https://cloud.google.com/blog/topics/developers-practitioners/building-collaborative-ai-a-developers-guide-to-multi-agent-systems-with-adk?e=48754805) | Guide to multi-agent systems with Google's Agent Development Kit (ADK): agent types, hierarchies, and communication |
 
 ## Frameworks & SDKs
 
@@ -49,7 +49,7 @@
 |---|---|
 | [Open Agent Skills Ecosystem](https://skills.sh/) | Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge. |
 | [Cognee](https://www.cognee.ai/) | Knowledge Engine for AI Agent Memory |
-| [Cognee Knowledge Graph](https://cognee-graph-skills.vercel.app/) | — |
+| [Cognee Knowledge Graph](https://cognee-graph-skills.vercel.app/) | Interactive knowledge graph visualization of Cognee |
 
 ## Media & Content
 

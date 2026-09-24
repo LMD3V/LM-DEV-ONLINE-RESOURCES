@@ -9,8 +9,8 @@
 
 | Resource | Description |
 |---|---|
-| [Stephane Maarek Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=LETSLEARNNOW) | — |
-| [Stephane Maarek 6 practice exam AWS Cloud Practitioner](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/?couponCode=LETSLEARNNOW) | — |
+| [Stephane Maarek Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=LETSLEARNNOW) | Full Udemy course to pass the AWS Certified Cloud Practitioner (CLF-C02) exam |
+| [Stephane Maarek 6 practice exam AWS Cloud Practitioner](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/?couponCode=LETSLEARNNOW) | 6 full-length practice exams for the AWS Cloud Practitioner certification |
 | [Tutorials Dojo](https://tutorialsdojo.com/) | One-Stop Learning Portal for AWS Certification, Azure Training & Other Cloud Topics |
 
 ## Hands-on Learning
