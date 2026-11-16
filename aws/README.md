@@ -3,6 +3,7 @@
 
 - [Courses & Certifications](#courses--certifications)
 - [Hands-on Learning](#hands-on-learning)
+- [Local Development](#local-development)
 - [Samples](#samples)
 
 ## Courses & Certifications
@@ -22,6 +23,14 @@
 | [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/courses/11458/aws-cloud-quest-cloud-practitioner) | Role-based learning experience designed to equip you with practical AWS Cloud skills. Featuring 12 FREE hands-on assignments that guide you through building real-world solutions, this course is enriched by instructional videos, architecture diagrams, knowledge quizzes, and a competitive tournament mode. |
 | [AWS Educate](https://aws.amazon.com/education/awseducate/) | Provides students and educators with no-cost access to cloud computing skills training developed by AWS experts |
 | [NextWork Community](https://community.nextwork.org/) | Learn AWS, AI, and more through hands-on learning and real-world projects. |
+
+[↑ Back to top](#aws)
+
+## Local Development
+
+| Resource | Description |
+|---|---|
+| [Floci](https://floci.io/aws/) | Free, MIT-licensed local AWS emulator and LocalStack drop-in (~135 services incl. S3, SQS, DynamoDB, Lambda) on localhost:4566, no account or auth token needed |
 
 [↑ Back to top](#aws)
 

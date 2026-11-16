@@ -5,6 +5,7 @@
 |---|---|
 | [A list of Free APIs](https://apilist.fun/) | Over 800 free APIs for developers |
 | [Facebook Chat Api](https://www.npmjs.com/package/facebook-chat-api) | Unofficial Node.js API for Facebook Messenger chat |
+| [Frankfurter](https://github.com/lineofflight/frankfurter) | Free, open-source currency exchange rate API covering 200+ currencies, with daily rates back to 1948 |
 | [Free Public APIs](https://github.com/public-apis/public-apis) | Free Public APIs |
 | [Mockaroo](https://www.mockaroo.com/) | Dummy Data Generator, (MANY FEATURES) RECOMMENDED |
 
