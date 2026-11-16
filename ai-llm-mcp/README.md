@@ -26,6 +26,7 @@
 | [AI Papers](https://aipaper.dev/) | Stay up-to-date with the latest AI research, for free, forever! |
 | [AI Roadmap](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) | AI Roadmap from scratch |
 | [AI Study Note](https://tidal-draw-67c.notion.site/Study-Note-AI-Agent-2b4b2866cc68805c8018dfb996578c94) | AI Agent Learning |
+| [Anthropic Academy](https://anthropic.skilljar.com/) | Anthropic's free courses on Claude, the Claude API, MCP and Claude Code |
 | [Learn AI](https://bryllim.com/learn-ai) | List of free AI resources and certifications |
 
 [↑ Back to top](#ai-tools--llms--mcp)
@@ -53,6 +54,7 @@
 
 | Resource | Description |
 |---|---|
+| [Anthropic Cybersecurity Skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | Community library of 800+ cybersecurity skills for AI agents across 29+ security domains, mapped to MITRE ATT&CK and NIST CSF 2.0 (not affiliated with Anthropic) |
 | [Cognee](https://www.cognee.ai/) | Knowledge Engine for AI Agent Memory |
 | [Cognee Knowledge Graph](https://cognee-graph-skills.vercel.app/) | Interactive knowledge graph visualization of Cognee |
 | [Open Agent Skills Ecosystem](https://skills.sh/) | Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge. |

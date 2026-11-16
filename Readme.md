@@ -11,19 +11,19 @@
       <a href="ai-llm-mcp/"><h1>🤖</h1></a>
       <a href="ai-llm-mcp/"><b>AI Tools | LLMs | MCP</b></a><br>
       <sub>AI assistants, LLM frameworks, MCP SDKs, agent design</sub><br><br>
-      <code>18 links</code>
+      <code>20 links</code>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="apis/"><h1>🔌</h1></a>
       <a href="apis/"><b>APIs</b></a><br>
       <sub>Free public API lists, mock data, API packages</sub><br><br>
-      <code>4 links</code>
+      <code>5 links</code>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="aws/"><h1>☁️</h1></a>
       <a href="aws/"><b>AWS</b></a><br>
-      <sub>AWS certification courses, hands-on labs, samples</sub><br><br>
-      <code>7 links</code>
+      <sub>AWS certification courses, hands-on labs, local emulators, samples</sub><br><br>
+      <code>8 links</code>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="backend-databases/"><h1>🗄️</h1></a>
